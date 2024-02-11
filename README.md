@@ -1,1 +1,1 @@
-# Image_Classification_System_Cifar10_DataSet
+This model demonstrates proficiency in classifying ten distinct items, ranging from cats and dogs to planes. Currently, it achieves an accuracy rate of approximately 68%. However, with further refinement its accuracy may be increased.
